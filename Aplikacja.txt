@@ -15,3 +15,8 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+    public void resetHasła() {
+        System.out.println("Podaj nowe hasło");
+        System.out.println("Powtórz nowe hasło");
+    }
